@@ -11,7 +11,7 @@ CineWorld focuses on documenting information from different movies and film indu
 The repository will contain information such as:
 
 - 🎥 Movie details
-- 🎬 Director information
+- 🎬 Directors information
 - 👤 Actor and actress information
 - 🎭 Cast and characters
 - 📅 Release dates
